@@ -13,6 +13,7 @@ class CartViewVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setupNav()
+        setupUI()
     }
     
     // MARK: - Function
@@ -36,6 +37,10 @@ class CartViewVC: UIViewController {
             titleSubtitleSpacing: 0,
             btnLeftRightSpacing: 10
         )
+    }
+    
+    func setupUI() {
+        view.backgroundColor = .white
     }
     
     // MARK: - OBJC
