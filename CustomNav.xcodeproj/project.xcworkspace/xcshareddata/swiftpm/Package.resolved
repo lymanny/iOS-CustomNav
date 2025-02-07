@@ -1,0 +1,15 @@
+{
+  "originHash" : "b4fe7f51818fdc155c3d1ac57fd8eb9dfc95225b61f27ede39200f6f09bbab12",
+  "pins" : [
+    {
+      "identity" : "ios-navlib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lymanny/iOS-NavLib.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "72cb25a8e63fe3a31ea8225ce0fd0d52579af042"
+      }
+    }
+  ],
+  "version" : 3
+}
